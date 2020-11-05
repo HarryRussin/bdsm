@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+.main {
+    background-color: ghostwhite;
+    padding: 100px;
+}
+
+.content {
+    border-style: outset;
+    padding: 30px;
+    border-width: 3px;
+}
+
+.footer {
+    padding: 20px;
+    margin: 0;
+    text-align: left;
+}
+
+img {
+    max-width: 100%;
+    overflow: hidden;
+}
